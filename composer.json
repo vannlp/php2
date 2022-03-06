@@ -1,0 +1,13 @@
+{
+    "name": "van/van",
+    "authors": [
+        {
+            "name": "Van Phan",
+            "email": "phanvan0322@gmail.com"
+        }
+    ],
+    "require": {
+        "bramus/router": "~1.6",
+        "rakit/validation": "^1.4"
+    }
+}
